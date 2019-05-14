@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4C9CFF</color>
+    <color name="colorPrimaryDark">#4C9CBF</color>
+    <color name="colorAccent">#d81b60</color>
+    <color name="backgroundColor">#4C9CFF</color>
+    <color name="backgroundPuzzle">#FFFFFF</color>
+    <color name="backgroundWordTable">#565446</color>
+    <color name="colorHeader">#fcf103</color>
+</resources>
